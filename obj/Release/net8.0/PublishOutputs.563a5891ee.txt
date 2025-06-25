@@ -1,0 +1,7 @@
+E:\Projects\Source Codes\az_learning\az_helloworld\obj\Release\net8.0\PubTmp\Out\az_helloworld.exe
+E:\Projects\Source Codes\az_learning\az_helloworld\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\Projects\Source Codes\az_learning\az_helloworld\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\Projects\Source Codes\az_learning\az_helloworld\obj\Release\net8.0\PubTmp\Out\az_helloworld.dll
+E:\Projects\Source Codes\az_learning\az_helloworld\obj\Release\net8.0\PubTmp\Out\az_helloworld.deps.json
+E:\Projects\Source Codes\az_learning\az_helloworld\obj\Release\net8.0\PubTmp\Out\az_helloworld.runtimeconfig.json
+E:\Projects\Source Codes\az_learning\az_helloworld\obj\Release\net8.0\PubTmp\Out\az_helloworld.pdb
