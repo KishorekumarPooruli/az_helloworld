@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("az_helloworld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0449572e71502713a6648fe9deae2e2d79260303")]
 [assembly: System.Reflection.AssemblyProductAttribute("az_helloworld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("az_helloworld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
